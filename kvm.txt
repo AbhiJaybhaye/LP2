@@ -1,0 +1,4 @@
+https://phoenixnap.com/kb/ubuntu-install-kvm
+amit = amshinde941
+omkar = https://github.com/master30112001/misc-codes/tree/master/TE/LP-II%20Lab
+avdhoot = https://github.com/mean-understanding45/CLG_CHUTIYAP/tree/main/LP2
